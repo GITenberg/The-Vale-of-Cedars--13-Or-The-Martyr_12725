@@ -1,0 +1,27 @@
+_repo: The-Vale-of-Cedars--13-Or-The-Martyr_12725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aguilar, Grace
+    birthdate: 1816
+    deathdate: 1847
+    gutenberg_agent_id: '4336'
+    url: http://www.gutenberg.org/2009/agents/4336
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Aguilar
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Spain -- History -- Ferdinand and Isabella, 1479-1516 -- Fiction'
+- !lcsh 'Inquisition -- Fiction'
+- GITenberg
+title: The Vale of Cedars; Or, The Martyr
+url: http://www.gutenberg.org/ebooks/12725
